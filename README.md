@@ -13,6 +13,10 @@ To run FLyway Migrations
 
 gradle flywayMigrate
 
+To build application
+
+gradle build
+
 To start application
 
 gradle bootRun
