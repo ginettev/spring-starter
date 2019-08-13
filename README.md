@@ -10,7 +10,9 @@ Contains:
 
 
 To run FLyway Migrations
+
 gradle flywayMigrate
 
 To start application
+
 gradle bootRun
